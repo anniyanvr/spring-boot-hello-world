@@ -1,0 +1,39 @@
+{
+  "version": "1.8.0",
+  "aspectRatio": "0.5625",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "GYWKG",
+      "url": "board-1-GYWKG.png",
+      "newShot": false,
+      "lastEdited": 1544203745321,
+      "layers": {
+        "reference": {
+          "url": "board-1-GYWKG-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-1-GYWKG-fill.png"
+        },
+        "tone": {
+          "url": "board-1-GYWKG-tone.png"
+        },
+        "pencil": {
+          "url": "board-1-GYWKG-pencil.png"
+        },
+        "ink": {
+          "url": "board-1-GYWKG-ink.png"
+        },
+        "notes": {
+          "url": "board-1-GYWKG-notes.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 2800.759965265408
+    }
+  ]
+}
